@@ -133,7 +133,7 @@ Open `http://localhost:8501` in your browser. Enter your repo details. Click Gen
 
 ## 📺 Demo Video
 
-[▶️ Watch DevPulse in Action](#) ← *link coming soon*
+[▶️ Watch DevPulse in Action -> https://www.loom.com/share/9acc91a269b64eeb97678ce487065dba](#)
 
 ---
 
